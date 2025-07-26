@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "token": "admin-token"
+    },
+    {
+      "id": "2",
+      "name": "Doctor User",
+      "email": "doctor@gmail.com",
+      "password": "doctor123",
+      "role": "doctor",
+      "token": "doctor-token"
+    },
+    {
+      "id": "3",
+      "name": "Manager User",
+      "email": "manager@gmail.com",
+      "password": "manager123",
+      "role": "manager",
+      "token": "doctor-token"
+    }
+  ],
+  "workers": [
+    {
+      "id": "1",
+      "fullName": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male",
+      "dob": "12-05-1988",
+      "designation": "JE",
+      "department": "Mining",
+      "address": "xyz street, india"
+    },
+    {
+      "id": "2",
+      "fullName": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "8888888888",
+      "gender": "Female",
+      "dob": "21-09-1985",
+      "designation": "JEE",
+      "department": "Mining",
+      "address": "abc street, india"
+    },
+    {
+      "id": "3",
+      "fullName": "alice",
+      "email": "alice@gmail.com",
+      "phone": "1234567890",
+      "department": "it"
+    },
+    {
+      "id": "4",
+      "fullName": "bob",
+      "email": "bob@gmail.com",
+      "phone": "9874563210",
+      "department": "hr"
+    }
+  ]
+}
